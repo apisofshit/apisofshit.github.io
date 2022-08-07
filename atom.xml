@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wumingdeshi.top</id>
+    <title>无榠的诗</title>
+    <updated>2022-08-07T03:20:54.848Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wumingdeshi.top"/>
+    <link rel="self" href="https://wumingdeshi.top/atom.xml"/>
+    <subtitle>无榠的诗</subtitle>
+    <logo>https://wumingdeshi.top/images/avatar.png</logo>
+    <icon>https://wumingdeshi.top/favicon.ico</icon>
+    <rights>All rights reserved 2022, 无榠的诗</rights>
+</feed>
